@@ -2,8 +2,8 @@
 
 export default function Home() {
   return (
-    <h1 className="3xl text-center">
-      Hello World
-    </h1>
+    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+
+    </main>
   );
 }
