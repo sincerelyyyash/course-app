@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "JavaScript Fundamentals",
+      "slug": "javascript-fundamentals",
+      "description": "Master the basics of JavaScript programming language with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/javascript.jpg"
+    },
+    {
+      "id": 2,
+      "title": "React Essentials",
+      "slug": "react-essentials",
+      "description": "Start building dynamic user interfaces with ReactJS, the popular JavaScript library.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/react.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Next.js Development",
+      "slug": "nextjs-development",
+      "description": "Take your web development skills to the next level with Next.js framework.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/nextjs.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Node.js Mastery",
+      "slug": "nodejs-mastery",
+      "description": "Become proficient in server-side development with Node.js runtime environment.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/nodejs.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Advanced React Techniques",
+      "slug": "advanced-react-techniques",
+      "description": "Explore advanced concepts and patterns in React development to build powerful applications.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": true,
+      "image": "/courses/advanced-react.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Full Stack JavaScript Development",
+      "slug": "full-stack-javascript-development",
+      "description": "Learn how to build scalable web applications from frontend to backend using JavaScript.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": false,
+      "image": "/courses/fullstack-js.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Modern Web Design with CSS Grid and Flexbox",
+      "slug": "modern-web-design-css-grid-flexbox",
+      "description": "Master modern layout techniques with CSS Grid and Flexbox for responsive web design.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": true,
+      "image": "/courses/css-grid-flexbox.jpg"
+    },
+    {
+      "id": 8,
+      "title": "RESTful API Development with Express.js",
+      "slug": "restful-api-development-expressjs",
+      "description": "Build RESTful APIs with Express.js framework for scalable and maintainable backend services.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": false,
+      "image": "/courses/expressjs.jpg"
+    },
+    {
+      "id": 9,
+      "title": "MongoDB for Beginners",
+      "slug": "mongodb-for-beginners",
+      "description": "Get started with MongoDB, the popular NoSQL database, for flexible and scalable data storage.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": true,
+      "image": "/courses/mongodb.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Authentication and Authorization in Node.js",
+      "slug": "authentication-authorization-nodejs",
+      "description": "Learn how to implement authentication and authorization mechanisms in Node.js applications.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/auth-nodejs.jpg"
+    }
+  ]
+}
