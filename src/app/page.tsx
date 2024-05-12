@@ -1,5 +1,6 @@
 import ChooseUs from "@/components/ChooseUs";
 import CoursesCard from "@/components/CoursesCard";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import Instructor from "@/components/Instructor";
 import TestimonialCards from "@/components/TestimonialCards";
@@ -13,6 +14,7 @@ export default function Home() {
     <ChooseUs/>
     <TestimonialCards/>
     <Instructor/>
+    <Footer/>
     </main>
   );
 }
