@@ -25,7 +25,7 @@ function Navbar({ className }: { className?: string }) {
             <HoveredLink href="/courses">NextJS</HoveredLink>
             </div>
         </MenuItem>
-        <Link href={"/Contact"}>
+        <Link href={"/contact"}>
         <MenuItem setActive={setActive} active={active} item="Contact Us"> 
         </MenuItem>
         </Link>

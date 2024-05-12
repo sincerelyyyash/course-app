@@ -8,7 +8,7 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/javascript.jpg"
+      "image": "/courses/javascript.jpeg"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 109.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
-      "image": "/courses/react.jpg"
+      "image": "/courses/react.jpeg"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 119.99,
       "instructor": "Emily Johnson",
       "isFeatured": true,
-      "image": "/courses/nextjs.jpg"
+      "image": "/courses/nextjs.jpeg"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 129.99,
       "instructor": "Mike Brown",
       "isFeatured": false,
-      "image": "/courses/nodejs.jpg"
+      "image": "/courses/nodejs.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 139.99,
       "instructor": "Chris Davis",
       "isFeatured": true,
-      "image": "/courses/advanced-react.jpg"
+      "image": "/courses/react.jpeg"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 149.99,
       "instructor": "Alex Wilson",
       "isFeatured": false,
-      "image": "/courses/fullstack-js.jpg"
+      "image": "/courses/mern.jpeg"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 159.99,
       "instructor": "Samantha Miller",
       "isFeatured": true,
-      "image": "/courses/css-grid-flexbox.jpg"
+      "image": "/courses/tailwind.png"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 169.99,
       "instructor": "Luke Harris",
       "isFeatured": false,
-      "image": "/courses/expressjs.jpg"
+      "image": "/courses/express.png"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 179.99,
       "instructor": "Grace Lee",
       "isFeatured": true,
-      "image": "/courses/mongodb.jpg"
+      "image": "/courses/mongodb.jpeg"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "price": 189.99,
       "instructor": "Ethan Moore",
       "isFeatured": true,
-      "image": "/courses/auth-nodejs.jpg"
+      "image": "/courses/authjs.jpeg"
     }
   ]
 }
