@@ -1,5 +1,5 @@
 "use client"
-import React from 'react'
+import React, { Key } from 'react'
 import courseData from "../data/courses.json"
 import Link from 'next/link'
 import { Button } from './ui/moving-border'
@@ -38,7 +38,7 @@ function CoursesCard() {
             <div className='grid grid-cols-1 sm:grid-cols-2
             lg:grid-cols-3 gap-8 justify-center'>
                 {courses.map((course:Course)=> (
-                    <div className='flex justify-center'>
+                    <div key={course.id as Key} className='flex justify-center'>
                         <BackgroundGradient className="flex flex-col rounded-[22px] p-4 sm:p-10 bg-black dark:bg-black overflow-hidden h-full max-w-sm">
                         <div className="p-4 sm:p-6 flex flex-col items-center text-center flex-grow">
                             <p className="text-lg sm:text-xl text-black mt-4 mb-2 dark:text-neutral-200">{course.title}</p>
