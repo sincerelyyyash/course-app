@@ -3,6 +3,7 @@ import Image from "next/image";
 import React, { Key } from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import courses from "@/data/courses.json"
+import Link from "next/link";
 
 
 function page() {
@@ -55,7 +56,7 @@ function page() {
                           as="button"
                           className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
                         >
-                          Sign up
+                          <Link href={`/courses/${course.notionId}`}>Start Learning</Link> 
                         </CardItem>
                       </div>
                     </CardBody>
