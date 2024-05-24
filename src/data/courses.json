@@ -8,7 +8,8 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/javascript.jpeg"
+      "image": "/courses/javascript.jpeg",
+      "notionId": "7adbe93e0393409d98d1d262477fc00a"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "price": 109.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
-      "image": "/courses/react.jpeg"
+      "image": "/courses/react.jpeg",
+      "notionId": "7adbe93e0393409d98d1d262477fc00a"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "price": 119.99,
       "instructor": "Emily Johnson",
       "isFeatured": true,
-      "image": "/courses/nextjs.jpeg"
+      "image": "/courses/nextjs.jpeg",
+      "notionId": "7adbe93e0393409d98d1d262477fc00a"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "price": 129.99,
       "instructor": "Mike Brown",
       "isFeatured": false,
-      "image": "/courses/nodejs.png"
+      "image": "/courses/nodejs.png",
+      "notionId": "7adbe93e0393409d98d1d262477fc00a"
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "price": 139.99,
       "instructor": "Chris Davis",
       "isFeatured": true,
-      "image": "/courses/react.jpeg"
+      "image": "/courses/react.jpeg",
+      "notionId": "7adbe93e0393409d98d1d262477fc00a"
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "price": 149.99,
       "instructor": "Alex Wilson",
       "isFeatured": false,
-      "image": "/courses/mern.jpeg"
+      "image": "/courses/mern.jpeg",
+      "notionId": "7adbe93e0393409d98d1d262477fc00a"
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "price": 159.99,
       "instructor": "Samantha Miller",
       "isFeatured": true,
-      "image": "/courses/tailwind.png"
+      "image": "/courses/tailwind.png",
+      "notionId": "7adbe93e0393409d98d1d262477fc00a"
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "price": 169.99,
       "instructor": "Luke Harris",
       "isFeatured": false,
-      "image": "/courses/express.png"
+      "image": "/courses/express.png",
+      "notionId": "7adbe93e0393409d98d1d262477fc00a"
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "price": 179.99,
       "instructor": "Grace Lee",
       "isFeatured": true,
-      "image": "/courses/mongodb.jpeg"
+      "image": "/courses/mongodb.jpeg",
+      "notionId": "7adbe93e0393409d98d1d262477fc00a"
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "price": 189.99,
       "instructor": "Ethan Moore",
       "isFeatured": true,
-      "image": "/courses/authjs.jpeg"
+      "image": "/courses/authjs.jpeg",
+      "notionId": "7adbe93e0393409d98d1d262477fc00a"
     }
   ]
 }
