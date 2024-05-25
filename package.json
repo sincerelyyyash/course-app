@@ -14,10 +14,8 @@
     "framer-motion": "^11.1.9",
     "mini-svg-data-uri": "^1.4.4",
     "next": "14.2.3",
-    "notion-client": "^6.16.0",
     "react": "^18",
     "react-dom": "^18",
-    "react-notion-x": "^6.16.0",
     "simplex-noise": "^4.0.1",
     "tailwind-merge": "^2.3.0"
   },
